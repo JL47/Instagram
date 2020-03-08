@@ -22,6 +22,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                      configuration.server = "https://ios-insta.herokuapp.com/parse"
                  })
              )
+        
+       
         return true
     }
 
